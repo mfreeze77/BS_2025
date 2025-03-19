@@ -9,6 +9,8 @@ This repository contains research and analysis for a high-upside "Big Short" inv
 
 - **BS_2025_Target.md**: Detailed analysis of distressed PE-backed companies, ETF and CLO exposure, shorting strategies for leverage risk, and systemic risk indicators.
 
+- **BS_2025_Global.md**: Expanded research integrating key macroeconomic vulnerabilities (tariffs, middle-class spending power decline, inflation-income gap, consumer market indicators) with the core leverage thesis.
+
 - **JAF_BG.md**: Case study on Joann Fabrics and Hooters, examining how private equity ownership, debt structures, and rising interest rates contributed to their financial troubles. Includes analysis of floating-rate loans, CLO markets, pension fund exposure, and related short-selling opportunities.
 
 - **JAF_BG_2.md**: Extended analysis of Joann Fabrics' and Hooters' financials before bankruptcy, the spike in PE-backed bankruptcies in 2024, the volume of floating-rate loans in PE deals, rising interest rates and default spikes, and CLO/pension fund exposure.
